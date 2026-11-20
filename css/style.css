@@ -314,3 +314,6 @@ color:#4fc3ff !important;
     display: block;
     border-radius: 10px;
 }
+#social-service p {
+    text-align: justify;
+}
